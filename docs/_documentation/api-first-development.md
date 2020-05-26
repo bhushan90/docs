@@ -45,7 +45,7 @@ server-side pages which gets easily coupled to your server implementation rather
 
 ### Multiple Web UI Validation Examples using same Services
 
-To better demonstrate the benefits of this approach and and show how there's no loss of flexibility, we've created the 
+To better demonstrate the benefits of this approach and show how there's no loss of flexibility, we've created the 
 [World Validation](https://github.com/NetCoreApps/Validation) .NET Core App which uses the same pure unopinionated ServiceStack Services to support 
 **8 different HTML UI strategies** including server HTML Rendered and Ajax Client forms, multiple View Engines, multiple layouts - all utilizing 
 the same Services and declarative [Fluent Validation](/validation).
